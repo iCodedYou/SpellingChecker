@@ -1,0 +1,2 @@
+tests/tree/a.txt:1:14 Badd
+tests/tree/subdir/b.txt:1:12 Wrong
